@@ -10,7 +10,7 @@ I want to contribute the open-source note repository: https://forms.gle/TeQUktn7
 </p>
 
 ## Non-technical personnel
-
+Test update 
 ```mermaid
 ---
 title: Non-technical personnel
